@@ -15,6 +15,7 @@ Together, we continue to enhance and maintain the Student Information System, st
 - **Student Record Maintenance:** Allows for accurate and up-to-date management of student records.
 - **Student Details:** Provides detailed student profiles, including personal and academic information.
 - **Account Management:** Manages student, teachers, coordinator accounts, including login credentials and access permissions.
+- **Account Retrieval:** Facilitates the retrieval of lost or forgotten accounts by sending verification codes via email, ensuring secure access recovery.
 - **User Management:** Administers user roles and permissions for system security and customization.
 - **Grades Management:** Facilitates the entry, management, and reporting of student grades.
 - **Transcripts:** Generates official student transcripts and academic reports.
