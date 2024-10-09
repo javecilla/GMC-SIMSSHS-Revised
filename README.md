@@ -2,7 +2,7 @@
 
 
 # About
-The Golden Minds Colleges Official Student Information System (SIS) is a collaborative project designed to streamline and enhance the management of student data at Golden Minds Colleges. This system aims to provide a comprehensive platform for handling various aspects of student information, ensuring data accuracy and operational efficiency.
+The Golden Minds Colleges Official Student Information Management System (SIMS) is a collaborative project designed to streamline and enhance the management of student data at Golden Minds Colleges. This system aims to provide a comprehensive platform for handling various aspects of student information, ensuring data accuracy and operational efficiency.
 
 The development of this system began in 2020, initiated by Jelo Victoriano Flores, the IT Coordinator of the school. When I was invited to join the development team, my role initially focused on front-end improvements, working on UI/UX enhancements to make the system more user-friendly and accessible. Over time, I expanded my responsibilities to include backend integration, collaborating closely with my mentor, Sir Jelo, who initially handled all backend development.
 
@@ -33,4 +33,3 @@ For access to the Golden Minds Colleges SIS, [please visit here.](https://sims.g
 ## License
 
 [MIT](https://github.com/javecilla/GMC_SIS/blob/main/LICENSE)
-
