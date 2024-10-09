@@ -1,4 +1,3 @@
-
 ![Logo](https://static.goldenmindsbulacan.com/assets/images/gmc/Ak2aX001.png)
 
 
@@ -28,7 +27,7 @@ Together, we continue to enhance and maintain the Student Information System, st
 
 
 
-For access to the Golden Minds Colleges SIS, [please visit here.](https://sis.goldenmindsbulacan.com/auth/login)
+For access to the Golden Minds Colleges SIS, [please visit here.](https://sims.goldenminds.edu.ph/auth/login)
 
 
 ## License
