@@ -1,5 +1,5 @@
 
-![Logo](https://sis.goldenmindsbulacan.com/resources/images/Ak2aX001.png)
+![Logo](https://static.goldenmindsbulacan.com/assets/images/gmc/Ak2aX001.png)
 
 
 # About
