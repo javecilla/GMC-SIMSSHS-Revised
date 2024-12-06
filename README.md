@@ -1,4 +1,4 @@
-![Logo](https://static.goldenmindsbulacan.com/assets/images/gmc/Ak2aX001.png)
+![Logo](https://static.goldenmindsbulacan.com/assets/images/dev/52q32112a.png)
 
 
 # About
