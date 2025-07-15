@@ -59,7 +59,12 @@ This project deepened my experience in building modular and scalable systems for
   </kbd>
 </p>
 
-## License
+## Demo
 
-This project is licensed under the [MIT License](https://github.com/javecilla/GMC-SIMSSHS-Revised/blob/main/LICENSE).  
-Feel free to use, modify, and distribute the system with appropriate credit.
+You can try the live demo [https://simsshs.goldenminds.edu.ph/](https://simsshs.goldenminds.edu.ph/)
+
+## Contact
+
+- Portfolio: [jerome-avecilla.vercel.app](https://jerome-avecilla.vercel.app/)
+- Email: jeromesavc@gmail.com
+- GitHub: [@javecilla](https://github.com/javecilla)
