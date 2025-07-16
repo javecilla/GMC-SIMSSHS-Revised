@@ -14,7 +14,7 @@ The existing portal at Golden Minds Colleges was built entirely with legacy PHP 
 - **Grading System**: Enable instructors to encode and release grades digitally with controlled access.  
 - **Class Scheduling**: Build and manage class schedules with conflict detection and printable reports.  
 - **Admin Dashboard**: User role-based access for managing system-wide data and activity logs.  
-- **Responsive Interface**: Vue.js and Bootstrap for seamless usability across desktops and mobile devices.
+- **Responsive Interface**: Vue.js and Tailwind CSS for seamless usability across desktops and mobile devices.
 
 ## Project Timeline  
 - **2020 – Initial Launch**: The original portal was developed internally by the school using raw HTML, CSS, JavaScript, and PHP. While functional, it lacked scalability, structure, and modern development standards.
